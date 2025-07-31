@@ -2,7 +2,7 @@
   "item": {
     "name": "凌波丽表盘",
     "description": "一个凌波丽的表盘",
-    "preview": ["first_v0.1.jpg", "second_v0.1.jpg",],
+    "preview": ["first_v0.1.jpg", "second_v0.1.jpg"],
     "icon": "icon_v0.1.jpg",
     "source_url": "https://github.com/caiawa/li",
     "author": [{
